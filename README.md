@@ -1,4 +1,30 @@
-## Hi there 👋
+Olá! Eu sou Augusto Henrique, tudo bem? ✨
+
+Sou estudante de Sistemas de Informação e apaixonado por tecnologia e desenvolvimento de software. Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades na programação.
+
+🌟 Tecnologias que estudo:
+
+Front-end: HTML, CSS, JavaScript
+
+Back-end: Java
+
+Sempre explorando novas ferramentas e boas práticas de desenvolvimento!
+
+📚 Sobre mim
+
+🔮 Atualmente estudando Sistemas de Informação
+
+📝 Interessado em desenvolvimento web e engenharia de software
+
+📚 Sempre aprendendo algo novo!
+
+👨‍💻 Contato:
+
+LinkedIn: https://www.linkedin.com/in/augusto-henrique-5316732a5/
+
+E-mail: aaugustohenrique05@gmail.com
+
+Vamos conectar e compartilhar conhecimento! 🚀
 
 <!--
 **AugustoHenriqueErc/AugustoHenriqueErc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
