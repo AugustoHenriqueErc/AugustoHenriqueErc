@@ -10,17 +10,13 @@ Back-end: Java
 
 Sempre explorando novas ferramentas e boas práticas de desenvolvimento!
 
-📚 Sobre mim
+🌟Sobre mim
 
-🔮 Atualmente estudando Sistemas de Informação
+📚 Atualmente estudando Sistemas de Informação no Instituto Federal de Minas Gerais
 
-📝 Interessado em desenvolvimento web e engenharia de software
+👨‍💻 Interessado em desenvolvimento web e engenharia de software
 
-📚 Sempre aprendendo algo novo!
-
-👨‍💻 Contato:
-
-LinkedIn: https://www.linkedin.com/in/augusto-henrique-5316732a5/
+ Contato:
 
 E-mail: aaugustohenrique05@gmail.com
 
